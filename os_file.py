@@ -4,3 +4,13 @@ if os.path.exists("temp.txt"):
     os.remove("temp.txt")
 else:
     print("Noo")
+
+
+
+# p=1
+# q=2
+#
+# r=p
+# s=(p,q)
+# print(type(r))
+# print(r,s)
